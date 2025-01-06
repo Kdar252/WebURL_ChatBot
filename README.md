@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 ### Step 3: Set Up Environment Variables
 
-To securely store your Gemini API key, we use a .env file. Create a file named .env in the project directory (same level as chatbot.py), and add the following line with your API key:
+To securely store your Gemini API key, we use a .env file. Create a file named .env in the project directory (same level as main.py), and add the following line with your API key:
 
 GEMINI_API_KEY=your_api_key_here
 
